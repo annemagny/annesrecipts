@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: 'Georgia';
+  background: rgb(255, 228, 248);
+  color: purple;
+}
+
+iframe{
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: rgb(216, 0, 94);
+    font-size:25
+
+}
+
+a:hover{ 
+ color: rgb(111, 9, 255);
+}
